@@ -4,3 +4,9 @@ numbers.push(63);
 var friends = ['balam', 'kalam', 'salam']
 var friends = ('deblam');
 console.log(friends);
+
+
+
+// use pop to get last elemant
+numbers.pop();
+console.log(numbers);
